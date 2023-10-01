@@ -12,6 +12,7 @@
           "NUnit": "3.13.3",
           "NUnit.ConsoleRunner": "3.16.3",
           "NUnit3TestAdapter": "4.5.0",
+          "Selenium.Firefox.WebDriver": "0.27.0",
           "Selenium.Support": "4.13.1",
           "Selenium.WebDriver": "4.13.1",
           "Selenium.WebDriver.ChromeDriver": "117.0.5938.9200"
@@ -332,6 +333,7 @@
       },
       "NUnit.ConsoleRunner/3.16.3": {},
       "NUnit3TestAdapter/4.5.0": {},
+      "Selenium.Firefox.WebDriver/0.27.0": {},
       "Selenium.Support/4.13.1": {
         "dependencies": {
           "Selenium.WebDriver": "4.13.1"
@@ -467,6 +469,13 @@
       "sha512": "sha512-s8JpqTe9bI2f49Pfr3dFRfoVSuFQyraTj68c3XXjIS/MRGvvkLnrg6RLqnTjdShX+AdFUCCU/4Xex58AdUfs6A==",
       "path": "nunit3testadapter/4.5.0",
       "hashPath": "nunit3testadapter.4.5.0.nupkg.sha512"
+    },
+    "Selenium.Firefox.WebDriver/0.27.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HwCaTaa+snzkLF7ZVaxKSmdttKm+KXT7HOY8c1q8p9E7x05+WHqw5XaZjUGFytVT1+0FkgUoH/u/I+csPLeJAg==",
+      "path": "selenium.firefox.webdriver/0.27.0",
+      "hashPath": "selenium.firefox.webdriver.0.27.0.nupkg.sha512"
     },
     "Selenium.Support/4.13.1": {
       "type": "package",

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Te5dRA5GJwH5f+e8OvrnVrO/bzRAjx1zzqLbFRX1y1VLenAl81vESOSJMFvwyUsoFzqi73wkpQ7kCfxXAXbwXg==",
+  "dgSpecHash": "4VGP5odquGQW/xbOC1o8nKZV0ByeRoH8pGIsDt4b5/HdIUeZ66Or85gVfsp56lYQLOpmR7o6Rsnkjyx9MLnZPA==",
   "success": true,
   "projectFilePath": "d:\\Visual_Studio_Projects\\cpetProject\\petProject\\petProject\\petProject.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\Маша\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\Маша\\.nuget\\packages\\nunit.consolerunner\\3.16.3\\nunit.consolerunner.3.16.3.nupkg.sha512",
     "C:\\Users\\Маша\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Маша\\.nuget\\packages\\selenium.firefox.webdriver\\0.27.0\\selenium.firefox.webdriver.0.27.0.nupkg.sha512",
     "C:\\Users\\Маша\\.nuget\\packages\\selenium.support\\4.13.1\\selenium.support.4.13.1.nupkg.sha512",
     "C:\\Users\\Маша\\.nuget\\packages\\selenium.webdriver\\4.13.1\\selenium.webdriver.4.13.1.nupkg.sha512",
     "C:\\Users\\Маша\\.nuget\\packages\\selenium.webdriver.chromedriver\\117.0.5938.9200\\selenium.webdriver.chromedriver.117.0.5938.9200.nupkg.sha512",

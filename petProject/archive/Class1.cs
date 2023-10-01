@@ -3,7 +3,8 @@ using NUnit.Framework;
 
 namespace petProject;
 
-//unit tests (methods) for Calculator
+//unit tests (methods) for Calculator 
+//System.Threading.Thread.Sleep(3000);
 /*add attribute Test (click Alt + Enter after writing [Test]) 
 and connect to NUnit (appears using NUnit.Framework;) 
 Setup - precondition 
@@ -98,7 +99,8 @@ public class Class1
         catch (Exception) 
         {
             Assert.Fail("Wrong exception code");
-        }
+        } 
+
 
 
     

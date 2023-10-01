@@ -381,6 +381,12 @@
           "build/netcoreapp3.1/NUnit3TestAdapter.props": {}
         }
       },
+      "Selenium.Firefox.WebDriver/0.27.0": {
+        "type": "package",
+        "build": {
+          "build/Selenium.Firefox.WebDriver.targets": {}
+        }
+      },
       "Selenium.Support/4.13.1": {
         "type": "package",
         "dependencies": {
@@ -1065,6 +1071,19 @@
         "nunit_256.png"
       ]
     },
+    "Selenium.Firefox.WebDriver/0.27.0": {
+      "sha512": "HwCaTaa+snzkLF7ZVaxKSmdttKm+KXT7HOY8c1q8p9E7x05+WHqw5XaZjUGFytVT1+0FkgUoH/u/I+csPLeJAg==",
+      "type": "package",
+      "path": "selenium.firefox.webdriver/0.27.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Selenium.Firefox.WebDriver.targets",
+        "driver/geckodriver.exe",
+        "selenium.firefox.webdriver.0.27.0.nupkg.sha512",
+        "selenium.firefox.webdriver.nuspec"
+      ]
+    },
     "Selenium.Support/4.13.1": {
       "sha512": "vWAf7gbLjcqRkkXPCO+ID5DvYb3dktn86mtHYFIEMHe+uXP9yn6ZML15KNj78nXRir5+QiSsC8Fw0WOjuVsPJQ==",
       "type": "package",
@@ -1184,6 +1203,7 @@
       "NUnit >= 3.13.3",
       "NUnit.ConsoleRunner >= 3.16.3",
       "NUnit3TestAdapter >= 4.5.0",
+      "Selenium.Firefox.WebDriver >= 0.27.0",
       "Selenium.Support >= 4.13.1",
       "Selenium.WebDriver >= 4.13.1",
       "Selenium.WebDriver.ChromeDriver >= 117.0.5938.9200"
@@ -1241,6 +1261,10 @@
           "NUnit3TestAdapter": {
             "target": "Package",
             "version": "[4.5.0, )"
+          },
+          "Selenium.Firefox.WebDriver": {
+            "target": "Package",
+            "version": "[0.27.0, )"
           },
           "Selenium.Support": {
             "target": "Package",
