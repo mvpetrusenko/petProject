@@ -7,7 +7,8 @@ namespace petProject;
 // iWebDriver - interface 
 // create object of Chrome driver (new ChromeDriver) 
 
-//find 1 element = FindElement(By.XPath("//a/h3)[1]"));
+//find 1 element = FindElement(By.XPath("//a/h3)[1]")); 
+//
 
 
 public class GoogleSearchClass
